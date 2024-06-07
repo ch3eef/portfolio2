@@ -17,7 +17,7 @@ const items = [
 },
 {
     id: 3,
-    title: "Moxie Website",
+    title: "Movie Website",
     img: "https://images.pexels.com/photos/1462935/pexels-photo-1462935.jpeg",
     desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit consectetur repellendus quibusdam provident et sed dicta eveniet quisquam veniam voluptas. Non obcaecati omnis quod veniam dicta magni sed assumenda voluptatem?"
 },
